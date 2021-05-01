@@ -1,4 +1,6 @@
 # Video Transcoder
+
+The original source is from https://github.com/brarcher/video-transcoder.
 <!-- [![Build Status](https://travis-ci.org/brarcher/video-transcoder.svg?branch=master)](https://travis-ci.org/brarcher/video-transcoder) -->
 
 <!--a href="https://f-droid.org/packages/protect.videoeditor/" target="_blank">
